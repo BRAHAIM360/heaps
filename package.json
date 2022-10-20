@@ -1,0 +1,15 @@
+{
+  "name": "heaps",
+  "version": "1.0.0",
+  "description": "Heap impementation using array",
+  "main": "index.js",
+  "scripts": {
+    "start:js": "nodemon --es-module-specifier-resolution=node --watch src src/index.js "
+  },
+  "type": "module",
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
